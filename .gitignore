@@ -1,3 +1,7 @@
+# project-specific ignores
+config.ini
+
+# All the rest of these are default Python-related ignores, courtesy of GitHub
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

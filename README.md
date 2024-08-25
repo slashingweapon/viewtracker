@@ -37,3 +37,7 @@ The last line will bring up a `vi` editor so you can modify your crontab file.
 If you want to run the collector every thirty minutes, the line you add to your crontab file should be like `30 * * * * /Users/myaccount/Projects/viewtracker/collector.sh`.
 
 Do I need to tell you to use your own project path? Let's hope not.
+
+# Configuration
+
+Copy `example.ini` to `config.ini` and edit it to your needs. The file should be commented well enough to guide you.
