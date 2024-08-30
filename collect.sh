@@ -2,7 +2,5 @@
 
 cd "$(dirname "$0")"
 . .venv/bin/activate
-
-echo "Good job!"
-
+python viewtracker.py
 deactivate
